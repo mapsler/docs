@@ -1,3 +1,6 @@
+![zarplata-v-kriptovalyute-mapsler-gps](https://user-images.githubusercontent.com/89662644/131256597-819c80fe-5570-46aa-89c6-3ed0ddb3ffc5.jpg)
+![800px-Great_Seal_of_the_United_States_(obverse) svg](https://user-images.githubusercontent.com/89662644/131256604-0406f89c-b5a0-42f3-96b8-3c2d90ac6460.png)
+![1920px-Flag_of_the_United_States svg](https://user-images.githubusercontent.com/89662644/131256611-9958dd3c-e8d0-435f-8d97-7c7d72b78067.png)
 ---
 title: Migrating to the Container registry from the Docker registry
 intro: 'Docker images previously stored in the Docker registry are being automatically migrated to the {% data variables.product.prodname_container_registry %}.'
