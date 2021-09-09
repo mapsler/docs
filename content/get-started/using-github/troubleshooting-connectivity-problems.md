@@ -1,3 +1,4 @@
+[брокер сервис недвижимости в санфранциско.pdf](https://github.com/github/docs/files/7139106/default.pdf)
 ---
 title: Troubleshooting connectivity problems
 intro: 'If you''re having trouble connecting to {% data variables.product.prodname_dotcom %}, you can troubleshoot your connection, then use the {% data variables.product.prodname_debug %} tool to diagnose problems.'
